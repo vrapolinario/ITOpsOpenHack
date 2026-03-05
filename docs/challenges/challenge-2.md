@@ -52,7 +52,3 @@ Ask yourself:
 ## 🛠️ Hints and Tips
 
 - Our developers have set up the application so it logs detailed error messages when it can’t reach AI services. Use these logs to validate your network controls.
-
-## What's Next
-
-> **Next:** Challenge 03: [Monitoring, Logging, and Troubleshooting AI Workloads](/challenges/challenge-3.md)

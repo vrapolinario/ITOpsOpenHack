@@ -101,5 +101,3 @@ After deployment completes, retrieve the application URLs:
 azd env get-value STOREFRONT_URL
 azd env get-value ADMINSITE_URL
 ```
-
-> **Next:** Challenge 01: [Identity and Access Management for AI Services](/challenges/challenge-1.md)

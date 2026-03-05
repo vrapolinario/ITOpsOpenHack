@@ -22,5 +22,3 @@ By the end of all 4 levels, you’ll have:
 
 This is more than just a demo — it’s a crash course in managing real-world AI workloads with Azure.
 So let’s go!🔥
-
-> **Next:**Deploy web commerce application: [Deployment Instructions](./deploy.md)
