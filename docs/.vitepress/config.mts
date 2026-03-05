@@ -2,6 +2,7 @@ import { defineConfig } from 'vitepress'
 
 // https://vitepress.dev/reference/site-config
 export default defineConfig({
+  base: '/ITOpsOpenHack/',
   title: "AI for ITOps Open Hack",
   description: "AI for ITOps Open Hack website with challenge instructions.",
   themeConfig: {
