@@ -46,4 +46,6 @@ Ask yourself:
 
 - [Azure Policy for AI Services](https://learn.microsoft.com/azure/governance/policy/overview)
 
+## Congratulations
+
 > **Congratulations!** You’ve completed all the challenges. Take a moment to reflect on what you’ve learned and how you can apply these principles in your own environment. Use the remaining time to explore the resources, ask questions, and share your insights with your peers.

@@ -63,4 +63,6 @@ Can this access model scale safely?
 - [Best Practices for Securing AI Workloads on Azure](https://learn.microsoft.com/azure/architecture/solution-ideas/articles/securing-ai-workloads)
 - [Azure Key Vault for Secrets Management](https://learn.microsoft.com/azure/key-vault/general/overview)
 
+## What's Next
+
 > **Next:** Challenge 02: [Network Isolation and Private Access to AI Endpoints](/challenges/challenge-2.md)

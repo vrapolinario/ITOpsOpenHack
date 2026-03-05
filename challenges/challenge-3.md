@@ -47,4 +47,6 @@ Ask yourself:
 - [Azure Monitor for AI Services](https://learn.microsoft.com/azure/azure-monitor/monitoring-ai-services)
 - [Log Analytics for Troubleshooting](https://learn.microsoft.com/azure/azure-monitor/log-analytics/log-analytics-overview)
 
+## What's Next
+
 > **Next:** Challenge 04: [Policy, Compliance, and Data Loss Prevention](/challenges/challenge-4.md)
