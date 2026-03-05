@@ -1,9 +1,8 @@
 # 🔐 Challenge 1: Secure Identity and Access for AI Services and Agents
 
 Welcome to your first IT/Ops OpenHack Challenge.
-**Your mission:** take control of identity and access for AI services running in production on Azure. Right now, the organization’s AI workloads work — but they work by relying on shared secrets, overly permissive roles, and unclear ownership. A recent internal security review flagged this as a critical risk.
+**Your mission:** take control of identity and access for AI services running in production on Azure. Right now, the organization’s AI workloads work — but they work by relying on shared secrets, overly permissive roles, and unclear ownership. A recent internal security review flagged this as a critical risk. As the IT/Ops team, it’s your responsibility to fix it.
 
-As the IT/Ops team, it’s your responsibility to fix it.
 ⏱ Duration: ~45 minutes
 🎯 Goal: Establish secure, least‑privilege identity patterns for AI services on Azure
 
