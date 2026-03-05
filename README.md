@@ -85,7 +85,8 @@ Compliance teams identify gaps in governance and policy enforcement across AI se
 You’re not on your own:
 
 - **Coaches are in the room** - grab one anytime
-- **Talk to your neighbours**: quick peer discussions solve most issues fast
+- **Azure Copilot** - use it to brainstorm, troubleshoot, or learn on the fly
+- **Talk to your neighbors**: quick peer discussions solve most issues fast
 - If you’re stuck, **raise your hand**
 
 We’re all here to learn together.
@@ -94,4 +95,4 @@ We’re all here to learn together.
 
 Everything is set-let’s move on to the challenge. 🚀  
 
-👉 **[Jump into the challenge](/challenges/challenge-1.md)**
+👉 **[Jump into the challenge](/challenges/start.md)**
